@@ -1,5 +1,9 @@
 # Comparer List
-ComparerList was developed with a simple goal: help people solve simple things, like matching items list and displaying results. It seems silly, but it's really useful.
+ComparerList was developed with a simple goal: help people solve simple things, like matching items list and displaying results. It seems silly, but it's really useful.<br><br>
+
+<p align="center">
+  <img src="https://i.imgur.com/PPIjcuB.gif" title="Demonstration">
+</p>
 
 ## :trident: FAQ
 
