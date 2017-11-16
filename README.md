@@ -32,4 +32,4 @@ Specials thanks for Kim Too Flex by the Framework.
 <br>
 <br>
 ## Disclaimer
-*Advanced Network Packet Analyzer is intended to be used for legal security purposes only, and you should only use it to study networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer. Be sure that you understand and are complying with the Advanced Network Packet Analyzer licenses and laws in your area. In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.*
+*Comparer List is intended to be used for legal security purposes only, and you should only use it to study networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer. Be sure that you understand and are complying with the Comparer List licenses and laws in your area. In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.*
